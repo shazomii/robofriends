@@ -23,4 +23,9 @@ export const robots = [{
         name: 'Segun Oyeniran',
         email: 'my-email@gmail.com'
     },
+    {
+        id: 6,
+        name: 'Tosin Oyeniran',
+        email: 'my-email@gmail.com'
+    },
 ]
